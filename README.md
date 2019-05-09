@@ -1,2 +1,3 @@
-# ai
-AI lab
+# AI
+
+AI Lab / Playground with Python
