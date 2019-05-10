@@ -1,5 +1,3 @@
 # Hello AI
 
-AI Lab / Playground with Python
-
-Some code snippets based on lessons from different books.
+AI Playground with Python and JavaScript for Machine Learning, Deep Learning, etc.
